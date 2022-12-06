@@ -8,7 +8,7 @@
     "scss": "node-sass --output-style expanded  --watch asset/scss --output asset/css --source-map true"
   },
   "devDependencies": {
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "node-sass": "^4.12.0",
     "scss-compile": "^0.1.7"
   },
